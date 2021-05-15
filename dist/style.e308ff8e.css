@@ -1,0 +1,50 @@
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+}
+
+body{
+          font-family: sans-serif;
+          height: 100vh;
+}
+
+section{
+          width: 100%;
+          height: 100vh;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          text-align: justify;
+          padding: 0px 40px;
+}
+
+.header{
+          font-size: 4rem;
+}
+
+p{
+          font-size: 2rem;
+}
+
+section:nth-of-type(2){
+          background: cornflowerblue;
+          color: white;
+}
+
+main{
+          width: 100%;
+          height: 100vh;
+          padding-top: 60px;
+          padding-left: 60px;
+}
+.custom{
+          width: 400px;
+          height: 300px;
+          text-align: justify;
+          overflow: auto;
+          padding: 20px;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
