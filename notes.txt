@@ -1,3 +1,11 @@
 https://www.youtube.com/watch?v=l3cizzbo_wc
 
+
+//github
 https://idiotwu.github.io/smooth-scrollbar/
+
+https://github.com/idiotWu/smooth-scrollbar
+
+parcel bundler tutorial
+https://www.youtube.com/watch?v=OK6akGZCC88
+

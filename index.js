@@ -9,6 +9,6 @@ var options = {
 Scrollbar.init(document.querySelector('#my-scrollbar'),options);
 
 
-// custom
+// custom   mini scroll portion
 Scrollbar.init(document.querySelector('#custom'));
 
